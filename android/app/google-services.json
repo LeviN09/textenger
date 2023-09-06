@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747136074579",
+    "project_id": "textenger-d7d6d",
+    "storage_bucket": "textenger-d7d6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747136074579:android:dd1d73b8564ef7b87417a6",
+        "android_client_info": {
+          "package_name": "com.levi.textenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747136074579-p3l3gol5psn7kbo0ssf94qmfea4drrg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDTX54v12vfE0cLZIYFxm-waRz_YesKxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747136074579-p3l3gol5psn7kbo0ssf94qmfea4drrg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
